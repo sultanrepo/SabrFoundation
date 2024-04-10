@@ -1,0 +1,194 @@
+[
+    {
+      "type": "header",
+      "version": "5.2.1",
+      "comment": "Export to JSON plugin for PHPMyAdmin"
+    },
+    {
+      "type": "database",
+      "name": "u995737398_sabr"
+    },
+    {
+      "type": "table",
+      "name": "users_login",
+      "database": "u995737398_sabr",
+      "data": [
+        {
+          "user_id": "244490",
+          "user_username": "faizahmad2362",
+          "user_email": "faizrahaman668@gmail.com",
+          "user_mob_number": "8340312533",
+          "password": "$2y$10$MA27nmnXpj6bPaFs7C1ZHeXxhLoMt9/877vE2H0uKuESKivxxyhVO",
+          "user_type": "member",
+          "user_created_at": "2023-10-05 19:53:16",
+          "user_updated_at": "2023-10-05 19:53:16",
+          "user_status": "1"
+        },
+        {
+          "user_id": "295870",
+          "user_username": "mdirfan1239",
+          "user_email": "ansari.irfan444@gmail.com",
+          "user_mob_number": "9973204764",
+          "password": "$2y$10$YpwAgpVpau5R09ryjFSqJePVc0RvVtKp0lJYmTrmBfXmFJZQ4JSvK",
+          "user_type": "member",
+          "user_created_at": "2023-10-06 14:02:33",
+          "user_updated_at": "2023-10-06 14:02:33",
+          "user_status": "1"
+        },
+        {
+          "user_id": "414216",
+          "user_username": "wasimkaiser5391",
+          "user_email": "wasimkaiser9211@gmail.com",
+          "user_mob_number": "7782039138",
+          "password": "$2y$10$MA27nmnXpj6bPaFs7C1ZHeXxhLoMt9/877vE2H0uKuESKivxxyhVO",
+          "user_type": "member",
+          "user_created_at": "2023-10-02 19:59:50",
+          "user_updated_at": "2023-10-02 19:59:50",
+          "user_status": "1"
+        },
+        {
+          "user_id": "425042",
+          "user_username": "unknown9772",
+          "user_email": "Unknown@gmail.com",
+          "user_mob_number": "9080706050",
+          "password": "$2y$10$ptjh7IFzWKquxXU9XNS8Xe07HLJrp548xiVjNBt6oUCaKxrD41XYC",
+          "user_type": "member",
+          "user_created_at": "2023-10-02 20:39:04",
+          "user_updated_at": "2023-10-02 20:39:04",
+          "user_status": "1"
+        },
+        {
+          "user_id": "572446",
+          "user_username": "asifali2956",
+          "user_email": "drakerasif007@gmail.com",
+          "user_mob_number": "8282827901",
+          "password": "$2y$10$fA02v0BAisW72f8FT3.uZuEVs.e4T8Py4GNVTONQU.9mNfeG9cqYS",
+          "user_type": "member",
+          "user_created_at": "2023-10-05 12:27:03",
+          "user_updated_at": "2023-10-05 12:27:03",
+          "user_status": "1"
+        },
+        {
+          "user_id": "626911",
+          "user_username": "mohammadmerajali4505",
+          "user_email": "mohammadmerajalinet@gmail.com",
+          "user_mob_number": "7564811486",
+          "password": "$2y$10$MA27nmnXpj6bPaFs7C1ZHeXxhLoMt9/877vE2H0uKuESKivxxyhVO",
+          "user_type": "member",
+          "user_created_at": "2023-10-02 19:11:36",
+          "user_updated_at": "2023-10-02 19:11:36",
+          "user_status": "1"
+        },
+        {
+          "user_id": "715432",
+          "user_username": "mdaftabalam7490",
+          "user_email": "mdaftabalam@gmail.com",
+          "user_mob_number": "7070977338",
+          "password": "$2y$10$R8UeQ9TomU/R0FMMLPbxgeSWMCoa7a6ywU4mvSI5.Zwi2lD92gf8q",
+          "user_type": "member",
+          "user_created_at": "2023-11-06 18:10:23",
+          "user_updated_at": "2023-11-06 18:10:23",
+          "user_status": "1"
+        },
+        {
+          "user_id": "762481",
+          "user_username": "shamsherali4731",
+          "user_email": "alishamsher0645@gmail.com",
+          "user_mob_number": "9852170096",
+          "password": "$2y$10$MA27nmnXpj6bPaFs7C1ZHeXxhLoMt9/877vE2H0uKuESKivxxyhVO",
+          "user_type": "member",
+          "user_created_at": "2023-10-05 09:09:35",
+          "user_updated_at": "2023-10-05 09:09:35",
+          "user_status": "1"
+        },
+        {
+          "user_id": "763152",
+          "user_username": "hasanraja9529",
+          "user_email": "hasanraja.sda@gmail.com",
+          "user_mob_number": "6207691440",
+          "password": "$2y$10$MA27nmnXpj6bPaFs7C1ZHeXxhLoMt9/877vE2H0uKuESKivxxyhVO",
+          "user_type": "member",
+          "user_created_at": "2023-10-02 18:51:37",
+          "user_updated_at": "2023-10-02 18:51:37",
+          "user_status": "1"
+        },
+        {
+          "user_id": "773387",
+          "user_username": "razasohail3840",
+          "user_email": "ahmadzishan340@gmail.com",
+          "user_mob_number": "7481026238",
+          "password": "$2y$10$MBOylQ3eZTsMZs.CVEC6NOqFnDqNz4veOngcr7N4mW8FTIoNiY4Ui",
+          "user_type": "member",
+          "user_created_at": "2024-03-18 14:35:43",
+          "user_updated_at": "2024-03-18 14:35:43",
+          "user_status": "1"
+        },
+        {
+          "user_id": "786786",
+          "user_username": "sabr786786",
+          "user_email": "sabr786@gmail.com",
+          "user_mob_number": "0786786786",
+          "password": "$2y$10$YpwAgpVpau5R09ryjFSqJePVc0RvVtKp0lJYmTrmBfXmFJZQ4JSvK",
+          "user_type": "admin",
+          "user_created_at": "2023-02-18 07:03:31",
+          "user_updated_at": "2023-02-18 07:03:31",
+          "user_status": "1"
+        },
+        {
+          "user_id": "853735",
+          "user_username": "serajali4860",
+          "user_email": "serajking7808@gmail.com",
+          "user_mob_number": "8340430927",
+          "password": "$2y$10$MA27nmnXpj6bPaFs7C1ZHeXxhLoMt9/877vE2H0uKuESKivxxyhVO",
+          "user_type": "member",
+          "user_created_at": "2023-11-03 01:37:06",
+          "user_updated_at": "2023-11-03 01:37:06",
+          "user_status": "1"
+        },
+        {
+          "user_id": "911909",
+          "user_username": "afzalali162",
+          "user_email": "afzalali7860123@gmail.com",
+          "user_mob_number": "8521603814",
+          "password": "$2y$10$DlGEoOGwP.vdZAPUj128HeyZXk93kGBznzo.TWgiVoITmb4Wcb/l.",
+          "user_type": "member",
+          "user_created_at": "2023-10-02 19:29:32",
+          "user_updated_at": "2023-10-02 19:29:32",
+          "user_status": "1"
+        },
+        {
+          "user_id": "926837",
+          "user_username": "mdejaz4950",
+          "user_email": "mdejaz9090@gmail.com",
+          "user_mob_number": "7987267502",
+          "password": "$2y$10$YpwAgpVpau5R09ryjFSqJePVc0RvVtKp0lJYmTrmBfXmFJZQ4JSvK",
+          "user_type": "member",
+          "user_created_at": "2023-10-02 18:50:40",
+          "user_updated_at": "2023-10-02 18:50:40",
+          "user_status": "1"
+        },
+        {
+          "user_id": "983165",
+          "user_username": "mdzinnurain9113",
+          "user_email": "mdzinnurain786@gmail.com",
+          "user_mob_number": "9685354526",
+          "password": "$2y$10$aCyUHt/0gH.666yOFq/ozOpCh3hKZWGHLKN/loUYrmEWOwBh3aPjC",
+          "user_type": "member",
+          "user_created_at": "2023-11-07 13:48:02",
+          "user_updated_at": "2023-11-07 13:48:02",
+          "user_status": "1"
+        },
+        {
+          "user_id": "989275",
+          "user_username": "sultanashraf1162",
+          "user_email": "sultanashraf14@gmail.com",
+          "user_mob_number": "8969474964",
+          "password": "$2y$10$MA27nmnXpj6bPaFs7C1ZHeXxhLoMt9/877vE2H0uKuESKivxxyhVO",
+          "user_type": "member",
+          "user_created_at": "2023-10-02 19:40:41",
+          "user_updated_at": "2023-10-02 19:40:41",
+          "user_status": "1"
+        }
+      ]
+    }
+  ]
